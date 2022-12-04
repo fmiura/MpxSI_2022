@@ -1,5 +1,5 @@
-# Serial intervals among monkeypox cases in the Netherlands 2022
-Supporting materials for Miura et al. (2022). Time scales of human monkeypox transmission in the Netherlands. _medRxiv_ (doi: TBD)
+# Serial intervals among monkeypox cases in the Netherlands, 2022
+Supporting materials for Miura et al. (2022). Time scales of human monkeypox transmission in the Netherlands. _medRxiv_ (doi: https://doi.org/10.1101/2022.12.03.22283056)
 
 ## Licence
 [MIT](https://github.com/fmiura/MpxSI_2022/blob/main/LICENSE)
